@@ -60,7 +60,6 @@
 ## 📘 Learning & Exploration
 
 - [network-security](https://github.com/bhanu1836/network-security): Exploratory work in network security with Python & Docker.
-- [python-learning](https://github.com/bhanu1836/python-learning): Practice repo for Python scripts and concepts.
 
 ---
 
