@@ -11,7 +11,7 @@
 
 ### 💻 Programming & Development
 - **Languages**: Python, JavaScript (Node.js), SQL
-- **Backend**: Node.js, Express.js, RESTful APIs, MongoDB, MySQL, Supabase
+- **Backend**: Node.js, Express.js,Flask ,RESTful APIs, MongoDB, MySQL, Supabase
 - **Frontend**: Streamlit (for AI dashboards)
 
 ### 🤖 AI / Machine Learning
@@ -20,7 +20,7 @@
 - **Use Cases**: AI Agents, NLP, RNNs, CNNs, Image & Text Classification
 
 ### 🛠️ Dev Tools
-- Git & GitHub, Docker, VS Code, Postman  
+- Git & GitHub, Docker, Postman  
 - Google Cloud, Twilio (for voice-based apps)
 
 ---
