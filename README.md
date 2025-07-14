@@ -16,19 +16,19 @@
 
 ### 🤖 AI / Machine Learning
 - **Libraries**: Scikit-learn, NumPy, Pandas, TensorFlow, Keras, OpenCV
-- **LLM Tooling**: LangChain, Hugging Face Transformers, Groq API, Ollama
+- **LLM Tooling**: LangChain, Hugging Face Transformers, Groq API, Ollama,Langgraph
 - **Use Cases**: AI Agents, NLP, RNNs, CNNs, Image & Text Classification
 
 ### 🛠️ Dev Tools
 - Git & GitHub, Docker, Postman  
-- Google Cloud, Twilio (for voice-based apps)
+- Google Cloud
 
 ---
 
 ## 📂 Featured Projects
 
-### 🔹 [ReLiveMe (Coming Soon)](https://github.com/bhanu1836/reliveme)
-> Generative AI platform that turns voice journals into cinematic scenes using LLMs, emotion detection, and video generation tools.
+### 🔹 [Multi Language Invoice extractor](https://github.com/bhanu1836/multilanguage-invoice-extractor)
+> A smart AI-powered web application that extracts key details from invoice images written in multiple languages using Google Gemini's multimodal model.
 
 ### 🔹 [agent-for-mysql-database](https://github.com/bhanu1836/agent-for-mysql-database)
 > Built using LangChain and MySQL. A natural language query agent that intelligently fetches data from a MySQL database using LLMs.
@@ -38,6 +38,15 @@
 
 ### 🔹 [eye_disease_prediction_CNN](https://github.com/bhanu1836/eye_disease_prediction_CNN)
 > CNN-based image classification system for detecting eye diseases. Includes a Flask-based web UI for user input and predictions.
+
+### 🔹 [fruits-quality-prediction-using-CNN](https://github.com/bhanu1836/fruits-quality-prediction-using-CNN)
+> CNN-based image classification system for predicting the quality (fresh/spoiled) of fruits. Includes a Streamlit-based web UI for uploading images and displaying predictions.
+
+### 🔹 [Agent for YT and Web URL summarizer](https://github.com/bhanu1836/Agent-for-YT-WEB_URL-summarizer)
+> This project focuses on building an intelligent multimodal summarization agent capable of extracting and condensing information from both YouTube videos and web pages (URLs) using the power of large language models (LLMs).
+
+###  🔹[Image caption Generator](https://github.com/bhanu1836/image_caption_generator)
+> This project focuses on building a vision-language model pipeline that can generate accurate and context-aware captions for uploaded images. The system leverages deep learning to extract visual features from images and combines them with language models to produce descriptive, human-like captions.
 
 ---
 
