@@ -27,6 +27,10 @@
 
 ## 📂 Featured Projects
 
+### 🔹 [🛒 ShopScout AI: Multi-Agent Smart Buyer](https://github.com/bhanu1836/Shop-scout-AI-Agent)
+> ShopScout AI is a GenAI-powered product comparison tool built with multi-agent logic. You simply input a product name and budget, and the agent intelligently searches **Google Shopping (India)** using SerpAPI, filters valid products, and returns the **best available deals in INR (₹)** from popular stores like **Amazon.in** and **Flipkart**.
+
+
 ### 🔹 [Multi Language Invoice extractor](https://github.com/bhanu1836/multilanguage-invoice-extractor)
 > A smart AI-powered web application that extracts key details from invoice images written in multiple languages using Google Gemini's multimodal model.
 
