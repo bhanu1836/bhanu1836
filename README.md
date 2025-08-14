@@ -37,6 +37,9 @@
 ### 🔹 [agent-for-mysql-database](https://github.com/bhanu1836/agent-for-mysql-database)
 > Built using LangChain and MySQL. A natural language query agent that intelligently fetches data from a MySQL database using LLMs.
 
+### 🔹 [Text to Math Problem Solver Agent](https://github.com/bhanu1836/text-to-math-agent)
+> A Python-based "text-to-math" agent that parses written arithmetic or algebra expressions in natural language and converts them into structured mathematical operations, leveraging modular tool-based pipelines (powered by LangChain). Users type something like “Compute the square of the sum of 3 and 4,” and the agent interprets that, maps it to a tool sequence, and returns the numeric result.
+
 ### 🔹 [search-engine-agent](https://github.com/bhanu1836/search-engine-agent)
 > An intelligent multi-source search engine that uses LLMs to retrieve and summarize information from DuckDuckGo, Wikipedia, and Arxiv.
 
