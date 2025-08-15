@@ -1,7 +1,7 @@
 # 👋 Hi, I'm K. Bhanu Prakash Reddy
 
 🎓 B.Tech CSE | 3rd Year Student (Graduating in 2027)  
-💡 Passionate about AI, Machine Learning, Fullstack Development, and Generative AI  
+💡 Passionate about AI, Machine Learning, Fullstack Development, Generative&Agentic AI,AI Agent Development 
 🚀 Currently exploring open-source LLMs, LangChain, and AI Agent applications  
 🌐 [LinkedIn](https://www.linkedin.com/in/karava-bhanu-prakash-reddy-143419305/) 
 
