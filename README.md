@@ -27,6 +27,9 @@
 
 ## 📂 Featured Projects
 
+### 🔹 [Agentic_Chatbots_RAGS: Multi-Mode AI Agent System with RAG Integration](https://github.com/bhanu1836/Agentic_Chatbots_RAGS)
+> Agentic_Chatbots_RAGS is a multi-use-case AI system built with Groq-powered LLMs supporting three modes: Basic Chatbot, Web-integrated Chatbot, and AI News Summarizer.It offers a modular agentic workflow with clear pipelines for each use case.The project uses Streamlit for the frontend, open-source LLMs for processing, and RAG techniques for context-aware responses.Each workflow is designed for scalability, easy customization, and quick deployment. Ideal for building real-time, intelligent conversational agents for varied applications.
+
 ### 🔹 [🛒 ShopScout AI: Multi-Agent Smart Buyer](https://github.com/bhanu1836/Shop-scout-AI-Agent)
 > ShopScout AI is a GenAI-powered product comparison tool built with multi-agent logic. You simply input a product name and budget, and the agent intelligently searches **Google Shopping (India)** using SerpAPI, filters valid products, and returns the **best available deals in INR (₹)** from popular stores like **Amazon.in** and **Flipkart**.
 
