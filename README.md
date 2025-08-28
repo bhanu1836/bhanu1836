@@ -30,6 +30,9 @@
 ### 🔹 [Agentic_Chatbots_RAGS: Multi-Mode AI Agent System with RAG Integration](https://github.com/bhanu1836/Agentic_Chatbots_RAGS)
 > Agentic_Chatbots_RAGS is a multi-use-case AI system built with Groq-powered LLMs supporting three modes: Basic Chatbot, Web-integrated Chatbot, and AI News Summarizer.It offers a modular agentic workflow with clear pipelines for each use case.The project uses Streamlit for the frontend, open-source LLMs for processing, and RAG techniques for context-aware responses.Each workflow is designed for scalability, easy customization, and quick deployment. Ideal for building real-time, intelligent conversational agents for varied applications.
 
+### 🔹 [TradingCopilot Agent](https://github.com/bhanu1836/Trading-Agent)
+> The AI Trading Assistant Chrome Extension is an intelligent browser extension that seamlessly integrates with TradingView to provide AI-powered trading insights through natural language commands. Built with Python Flask backend, LangChain, and Groq LLM, users can interact with TradingView using simple commands like "Find the best performing stocks today" or "Add Bitcoin to my watchlist". The extension features automated TradingView actions, real-time stock analysis, smart watchlist management, and technical indicator support. This tool bridges complex trading platforms with user-friendly AI assistance, making trading analysis more accessible and efficient for both novice and experienced traders.
+
 ### 🔹 [🛒 ShopScout AI: Multi-Agent Smart Buyer](https://github.com/bhanu1836/Shop-scout-AI-Agent)
 > ShopScout AI is a GenAI-powered product comparison tool built with multi-agent logic. You simply input a product name and budget, and the agent intelligently searches **Google Shopping (India)** using SerpAPI, filters valid products, and returns the **best available deals in INR (₹)** from popular stores like **Amazon.in** and **Flipkart**.
 
