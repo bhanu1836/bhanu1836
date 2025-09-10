@@ -16,7 +16,7 @@
 
 ### 🤖 AI / Machine Learning
 - **Libraries**: Scikit-learn, NumPy, Pandas, TensorFlow, Keras, OpenCV
-- **LLM Tooling**: LangChain, Hugging Face Transformers, Groq API, Ollama,Langgraph
+- **LLM Tooling**: LangChain, Hugging Face Transformers, Groq API, Ollama,Langgraph,Autogen
 - **Use Cases**: AI Agents, NLP, RNNs, CNNs, Image & Text Classification
 
 ### 🛠️ Dev Tools
@@ -36,6 +36,8 @@
 ### 🔹 [🛒 ShopScout AI: Multi-Agent Smart Buyer](https://github.com/bhanu1836/Shop-scout-AI-Agent)
 > ShopScout AI is a GenAI-powered product comparison tool built with multi-agent logic. You simply input a product name and budget, and the agent intelligently searches **Google Shopping (India)** using SerpAPI, filters valid products, and returns the **best available deals in INR (₹)** from popular stores like **Amazon.in** and **Flipkart**.
 
+### 🔹 [Travel_planner_Agent](https://github.com/bhanu1836/Travel_Planner_Agent)
+> AutoGen Travel Planner is an intelligent multi-agent system built with Microsoft AutoGen v0.4 that combines AI-powered agents with real-world APIs to create comprehensive travel itineraries. Specialized Travel Planner and Research agents collaborate using live data from weather, flights, currency, and location services to deliver accurate, up-to-date recommendations. Leveraging the DeepSeek model, the agents craft detailed day-by-day itineraries tailored to user preferences and budgets through structured conversations. The modular architecture supports easy integration of additional tools and agents, making it a powerful framework for automated travel planning.
 
 ### 🔹 [Multi Language Invoice extractor](https://github.com/bhanu1836/multilanguage-invoice-extractor)
 > A smart AI-powered web application that extracts key details from invoice images written in multiple languages using Google Gemini's multimodal model.
@@ -79,18 +81,13 @@
 
 ---
 
-## 📘 Learning & Exploration
-
-- [network-security](https://github.com/bhanu1836/network-security): Exploratory work in network security with Python & Docker.
-
----
 
 ## 🔭 What I'm Working On Now
 
 - Fine-tuning open-source LLMs for custom applications
 - Integrating voice and emotion detection in Generative AI workflows
-- Building MVPs for AI hackathons and internship submissions
-
+- Creating AI agents to solve real world problems
+- Learning Computer Vision,Microsoft Autogen,DSA
 ---
 
 ## 📫 Let's Connect
